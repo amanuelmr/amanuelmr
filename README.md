@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [amanuel.work](amanuel.work)
 
-- 💬 Ask me about **react, nextjs, AI/ML, TailwindCSS, NodeJS(ExpressJS), GO**
+- 💬 Interested to talk about **react, nextjs, AI/ML, TailwindCSS, NodeJS(ExpressJS), GO**
 
 - 📫 How to reach me **amanuelmandefrow@gmail.com**
 
