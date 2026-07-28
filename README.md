@@ -13,6 +13,6 @@
 
 - 📫 How to reach me **amanuelmandefrow@gmail.com**
 
-- 📄 Know about my experiences https://www.amanuel.work/resume.pdf(https://www.amanuel.work/resume.pdf)
+- 📄 Know about my experiences [https://www.amanuel.work/resume.pdf](https://www.amanuel.work/resume.pdf)
 
 - ⚡ Fun fact **I hate coding but I do it everyday**
