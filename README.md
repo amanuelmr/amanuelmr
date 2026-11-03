@@ -24,7 +24,6 @@
 - 💬 Ask me about React, Next.js, TypeScript, Go, Python, Tailwind CSS, PostgreSQL
 - 🗂️ More of my work lives at **[amanuel.work](https://www.amanuel.work)**
 - 📫 Reach me at **amanuelmandefrow@gmail.com**
-- ⚡ Fun fact: I claim to hate coding, and yet — here I am, every single day
 
 ---
 
